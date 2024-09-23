@@ -22,4 +22,4 @@ To install the required dependencies, run the following command:
 ```bash
 pip install Pillow
 
-![image](https://github.com/user-attachments/assets/7251a379-a1cc-41f7-8835-6524185e1273)
+
